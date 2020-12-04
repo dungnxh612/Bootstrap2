@@ -1,0 +1,15 @@
+.card body {
+    background-color: antiquewhite;
+}
+.input{
+    margin-top:5px;
+}
+button {
+    height: 31px;
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -4px;
+}
+.form-group{
+    margin-bottom:-5px;
+}
